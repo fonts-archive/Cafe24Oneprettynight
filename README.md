@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'Cafe24 Ssukssuk';
+    font-family: 'Cafe24 Oneprettynight';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
