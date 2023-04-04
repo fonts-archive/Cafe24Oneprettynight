@@ -15,7 +15,7 @@ font-family: 'Cafe24 Oneprettynight';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Oneprettynight/Cafe24Oneprettynight.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Oneprettynight/Cafe24Oneprettynight.css" type="text/css"/>
 ```
 
 &nbsp;
